@@ -51,3 +51,7 @@ The frontend is currently using **HTML**, **CSS**, **[React](https://react.dev/)
 ```npm install```
 3. Start application using
 ```npm start```
+
+This project was written and is currently maintained by [OshDuck](https://github.com/Osh-Duck).
+
+Last updated - **9/3/2026**
