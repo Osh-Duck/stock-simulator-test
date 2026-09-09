@@ -1,6 +1,6 @@
 # Stock Simulator
 
-This is the full documentation for the backend and frontend of this stock simulator. This is not complete or helpful in the slightest.
+This is the full documentation for the backend and frontend of this stock simulator. This is not complete or helpful in the slightest. I am planning on completing this by 9/20/26.
 
 ## Structure
 
@@ -54,4 +54,4 @@ The frontend is currently using **HTML**, **CSS**, **[React](https://react.dev/)
 
 This project was written and is currently maintained by [OshDuck](https://github.com/Osh-Duck).
 
-Last updated - **9/3/2026**
+Last updated - **9/8/2026**
